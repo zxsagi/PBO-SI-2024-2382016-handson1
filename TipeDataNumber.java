@@ -4,7 +4,7 @@ public class TipeDataNumber {
         byte tipeDataByte = 10;
         short tipeDataShort = 10;
         int tipeDataInt = 10;
-        long tipeDataLong = 10L;
+        long tipeDataLong = 10l;
 
         //bilangan pecahan
         float tipeDataFloat = 10.3F;

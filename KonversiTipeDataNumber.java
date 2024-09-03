@@ -11,7 +11,7 @@ public class KonversiTipeDataNumber {
 
         //number overflow
         int tipeDataInteger = 128;
-        short tipeDataByteConverted = (byte) tipeDataInteger;
+        byte tipeDataByteConverted = (byte) tipeDataInteger;
         System.out.println(tipeDataByteConverted);
     }
 }
